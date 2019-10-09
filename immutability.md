@@ -4,6 +4,8 @@ We should encourage immutability because it makes the code more predictable and 
 
 ## Why immutability?
 
+Basically it comes down to the fact that immutability increases predictability, performance (indirectly) and allows for mutation tracking.
+
 ### Predictability
 
 Mutation hides change, which create (unexpected) side effects, which can cause nasty bugs. When you enforce immutability you can keep your application architecture and mental model simple, which makes it easier to reason about your application.
@@ -20,12 +22,21 @@ Besides reduced memory usage, immutability allows you to optimize your applicati
 
 ```php
 // Bad
-// TODO: ...
+$dateTime = new DateTime('09-10-2019');
+$dateTime->modify('+1 day');
+// The original object changed
+$dateTime->format('Y-m-d'); // 2019-10-10
 ```
 
 ```php
 // Good
-// TODO: ...
+$dateTime = new DateTimeImmutable('09-10-2019');
+$modified = $dateTime->modify('+1 day');
+// The original object remains the same
+$dateTime->format('Y-m-d'); // 2019-10-09
+// `modify()` returns a new object instead
+$modified->format('Y-m-d'); // 2019-10-10
+
 ```
 
 ## References:
