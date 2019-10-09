@@ -42,7 +42,7 @@ Using a source control system you can see and track all the changes that happen 
 
 Position markers
 
-Try to avoid using position markers into your code. For example adding ///////// into the code to find more easily a specific part of the code.
+Try to avoid using position markers into your code. For example adding `/////////` into the code to find more easily a specific part of the code.
 
 ## Good example of comments
 
