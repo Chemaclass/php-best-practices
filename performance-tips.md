@@ -12,16 +12,20 @@ if ($a == $b) {/* ... */}
 if ($a === $b) {/* ... */}
 ```
 
-## For null checks use comparison to null instead of invoking method is_null().
+## Using fully-qualified function calls
+
+When calling functions in a namespaced context, additional actions are triggered in PHP which result in slower execution. 
 
 ```php
-// Bad:
-if (is_null($variable)) {/* ... */}
+// solution 1:
+namespace baz;
+\foo();
 
-// Good:
-if (null === $variable) {/* ... */}
-
-// Also good:
-if (!$variable) {/* ... */}
+// solution 2:
+namespace baz;
+use function foo;
+foo();
 ```
+
+Link reference: https://veewee.github.io/blog/optimizing-php-performance-by-fq-function-calls/
 
