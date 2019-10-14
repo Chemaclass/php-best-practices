@@ -1,6 +1,8 @@
 
 # Functions
 
+Functions should be small
+
 ## Argument objects
 
 When a function seems to need more than two or three arguments, it is likely that some of those arguments can be wrapped into a class of their own. In such cases, group them within a class:
