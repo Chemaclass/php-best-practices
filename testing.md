@@ -24,3 +24,7 @@ A test is basically the prove of the expected behaviour of your software.
 * These tests doesn't care about how but if the ending result of a total is the expected behaviour, without caring at all about any detail implementation.
 * They are independent from the DB.
 * The importance of this tests is that they are completely agnostig from the software which is running the production result.
+
+## Frameworks
+
+There are plenty of frameworks to write tests, but I will encourage you to first master the most popular one: [PHPUnit](https://phpunit.de/documentation.html). Once you know this one, you will be able to learn any other testing-tool without any problem. Mostly, because almost all of them are based on this one.
