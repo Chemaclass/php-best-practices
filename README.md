@@ -2,6 +2,10 @@
 
 Apart from consulting https://phptherightway.com/ for good practices, I will compile some of them that I personally consider really helpful while developing in PHP.
 
+* [Agreements](/agreements.md)
+
+> We need conventions. 
+
 * [Comments](/comments.md)
 
 > The problem with comments is that they are not always updated.
