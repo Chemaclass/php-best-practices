@@ -37,3 +37,7 @@ Apart from consulting https://phptherightway.com/ for good practices, I will com
 * [Strict Types](/strict-types.md)
 
 > Use strict_types constant when possible; specially for your new PHP files.
+
+* [Testing](/testing.md)
+
+> Prove the expected behaviour of your software.
