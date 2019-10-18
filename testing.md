@@ -28,3 +28,8 @@ A test is basically the prove of the expected behaviour of your software.
 ## Frameworks
 
 There are plenty of frameworks to write tests, but I will encourage you to first master the most popular one: [PHPUnit](https://phpunit.de/documentation.html). Once you know this one, you will be able to learn any other testing-tool without any problem. Mostly, because almost all of them are based on this one.
+
+## Cohn Pyramid
+
+* The more integrational test -> the slower it will be.
+* The more isolated test -> the faster it will be.
