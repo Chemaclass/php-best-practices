@@ -33,3 +33,9 @@ There are plenty of frameworks to write tests, but I will encourage you to first
 
 * The more integrational test -> the slower it will be.
 * The more isolated test -> the faster it will be.
+
+## Methodologies
+
+* Test-Last
+* Test-First
+* Test-Driven Development (TDD)
