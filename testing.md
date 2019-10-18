@@ -36,10 +36,17 @@ There are plenty of frameworks to write tests, but I will encourage you to first
 
 ## Methodologies
 
-* Test-Last
-* Test-First
-* Test-Driven Development (TDD)
+### Test-Last
 
+These tests are implemented after the production code was written. 
+
+### Test-First
+
+These tests are implemented before start writing the production code. 
+
+### Test-Driven Development (TDD)
+
+Similar to Test-First, with the important remark that the tests will help you to define and refactor the production code while you are implementing the final result. TDD helps you to design an easy testable code because the production code and its tests are written in parallel.
 
 ## References
 
