@@ -39,3 +39,11 @@ There are plenty of frameworks to write tests, but I will encourage you to first
 * Test-Last
 * Test-First
 * Test-Driven Development (TDD)
+
+
+## References
+
+### Books
+
+* [Testing y TDD para PHP](https://leanpub.com/testingytddparaphp/read) (Spanish) by Fran Iglesias
+* [Working Effectively with Legacy Code](https://www.amazon.es/Working-Effectively-Legacy-Robert-Martin/dp/0131177052) (English) by Feathers Michael
