@@ -28,4 +28,3 @@ foo();
 ```
 
 Link reference: https://veewee.github.io/blog/optimizing-php-performance-by-fq-function-calls/
-
