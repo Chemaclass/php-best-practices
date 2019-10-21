@@ -2,9 +2,13 @@
 
 Apart from consulting https://phptherightway.com/ for good practices, I will compile some of them that I personally consider really helpful while developing in PHP.
 
+## Team work
+
 * [Agreements](/team-work/agreements.md)
 
 > We need conventions. 
+
+### Technical skills
 
 * [Comments](/technical-skills/comments.md)
 
