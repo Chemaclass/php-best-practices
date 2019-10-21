@@ -16,7 +16,7 @@ Apart from consulting https://phptherightway.com/ for good practices, I will com
 
 * [Final Classes](/technical-skills/final-classes.md)
 
->  When you see a class prefix with the `final` you will be sure that this class is not extended by any other in the code.
+>  A "final class" will ensure that this class is not extended by any other in the system.
 
 * [Functions](/technical-skills/functions.md)
 
@@ -24,7 +24,7 @@ Apart from consulting https://phptherightway.com/ for good practices, I will com
 
 * [Immutability](/technical-skills/immutability.md)
 
-> It makes the code more predictable and straightforward. So we can be sure that our data are truths.
+> It makes the code more predictable and straightforward.
 
 * [Meaningful Names](/technical-skills/meaningful-names.md)
 
@@ -32,7 +32,7 @@ Apart from consulting https://phptherightway.com/ for good practices, I will com
 
 * [Minimum Scope](/technical-skills/minimum-scope.md)
 
-> Use `private` by default.
+> Attempt always to the minimum scope of your variables, methods, and classes.
 
 * [Performance Tips](/technical-skills/performance-tips.md)
 
@@ -40,7 +40,7 @@ Apart from consulting https://phptherightway.com/ for good practices, I will com
 
 * [Strict Types](/technical-skills/strict-types.md)
 
-> Use strict_types constant when possible; specially for your new PHP files.
+> Use strict_types constant when possible; specially for your new files.
 
 * [Testing](/technical-skills/testing.md)
 
