@@ -8,6 +8,10 @@ Apart from consulting https://phptherightway.com/ for good practices, I will com
 
 We need conventions. 
 
+* [Knowledge sharing](/team-work/knowledge-sharing.md) 
+
+Follow the news of your stack.
+
 ## Technical skills
 
 * [Comments](/technical-skills/comments.md) 
