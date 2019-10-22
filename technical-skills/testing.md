@@ -52,5 +52,5 @@ Similar to Test-First, with the important remark that the tests will help you to
 
 ### Books
 
-- [Testing y TDD para PHP](https://leanpub.com/testingytddparaphp/read) (Spanish) by Fran Iglesias
-- [Working Effectively with Legacy Code](https://www.amazon.es/Working-Effectively-Legacy-Robert-Martin/dp/0131177052) (English) by Feathers Michael
+* **Testing y TDD para PHP** ([Leanpub](https://leanpub.com/testingytddparaphp/read)) ([Github](https://github.com/franiglesias/testing-php)) [Spanish] by Fran Iglesias
+* **Working Effectively with Legacy Code** ([Amazon](https://www.amazon.es/Working-Effectively-Legacy-Robert-Martin/dp/0131177052)) [English] by Feathers Michael
