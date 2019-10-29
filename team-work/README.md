@@ -4,14 +4,18 @@ Apart from consulting https://phptherightway.com/ for good practices, I will com
 
 ## Team work
 
-* [Agile](agile.md) 
+* [Agile](agile.md)
 
-Agile software development values
+Agile software development values.
 
-* [Agreements](agreements.md) 
+* [Agreements](agreements.md)
 
-We need conventions. 
+We need conventions.
 
-* [Knowledge sharing](knowledge-sharing.md) 
+* [Documentation](/team-work/documentation.md)
+
+Document your knowledge.
+
+* [Knowledge sharing](knowledge-sharing.md)
 
 Follow the news of your stack.
