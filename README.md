@@ -4,6 +4,10 @@ Apart from consulting https://phptherightway.com/ for good practices, I will com
 
 ## Team work
 
+* [Agile](/team-work/agile.md) 
+
+Agile software development values
+
 * [Agreements](/team-work/agreements.md) 
 
 We need conventions. 
