@@ -1,5 +1,15 @@
 # Agile
 
+## Minimize the scope of your tasks
+
+Try to minimize the scope of your working tickets to the minimum value that could make sense, 
+in term of deployability or just moving forward the ticket itself for the next status; 
+to Review or QA, for example.
+
+Keeping in mind a small and concrete goal to achieve by the given ticket description helps you to focus on the **Acceptance Criteria** that the tickets ask you to complete. 
+
+There is an excellent kata/exercise to train exacly this, it's called "[Elephant Carpaccio](https://docs.google.com/document/d/1TCuuu-8Mm14oxsOnlk8DqfZAA1cvtYu9WGv67Yj_sSk/pub)".
+
 ## Agile software development values
 
 * Individuals and Interactions over processes and tools
@@ -24,3 +34,4 @@
 
 ## References
 * [Wikipedia](https://en.wikipedia.org/wiki/Agile_software_development)
+* [Kata log](https://kata-log.rocks/)
