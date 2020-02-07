@@ -16,6 +16,10 @@ We need conventions.
 
 Document your knowledge.
 
+* [Estimations](/team-work/estimations.md)
+
+Discover the unknowns.
+
 * [Knowledge sharing](/team-work/knowledge-sharing.md)
 
 Follow the news of your stack.
