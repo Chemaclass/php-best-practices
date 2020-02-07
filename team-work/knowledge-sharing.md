@@ -10,11 +10,11 @@ Be aware that likely your stack have social media account/s and you should be aw
 
 ## Tech talks
 
-For bigger development-teams, it makes sense to share their knowledge timeboxing some time for them in order to talk and discuss any recently tech-related discovering or learned topic.
+For bigger development-teams, it makes sense to share their knowledge time-boxing some time for them in order to talk and discuss any recently tech-related discovering or learned topic.
 
-## Writting blog-posts
+## Writing blog-posts
 
-It helps to the team members to consolidate and share with the external world some interesing tech-topics, as well within their team.
+It helps to the team members to consolidate and share with the external world some interesting tech-topics, as well within their team.
 
 An option for this it might be having your own [Medium account](https://medium.com/@chemaclass).
 
