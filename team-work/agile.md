@@ -1,5 +1,10 @@
 # Agile
 
+## Continuous feedback
+
+A healthy environment of openness and honest feedback among team members which is critical for a team 
+to learn and adapt quickly to perform at their best potential.
+
 ## Minimize the scope of your tasks
 
 Try to minimize the scope of your working tickets to the minimum value that could make sense, 
@@ -34,5 +39,7 @@ There is an excellent kata/exercise to train exactly this, it's called
 12. Regularly, the team reflects on how to become more effective, and adjusts accordingly
 
 ## References
+
 * [Wikipedia](https://en.wikipedia.org/wiki/Agile_software_development)
 * [Kata log](https://kata-log.rocks/)
+* [infoq](https://www.infoq.com/articles/continuous-feedback-teams/)
