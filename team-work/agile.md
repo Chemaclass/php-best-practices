@@ -2,8 +2,8 @@
 
 ## Continuous feedback
 
-A healthy environment of openness and honest feedback among team members which is critical for a team 
-to learn and adapt quickly to perform at their best potential.
+A healthy environment of openness and honest feedback among team members is critical for a team to learn 
+and adapt quickly in order to perform at their best potential.
 
 ## Minimize the scope of your tasks
 
