@@ -10,7 +10,7 @@ Agile software development values.
 
 We need conventions.
 
-* [Documentation](/team-work/documentation.md)
+* [Documentation](documentation.md)
 
 Document your knowledge.
 
