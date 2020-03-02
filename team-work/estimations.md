@@ -22,13 +22,13 @@ Even though story points are kind of arbitrary in nature, I will try to give an 
 
 The most basic and least complex kind of task. Is usually achievable in less then a day by one person without consulting others or doing any kind of investigation.
 
-**example:** Changing few lines of code in few files:
+**example:** Changing a few simple lines of code in few files.
 
 ### 2
 
 Still easily achievable without any kind of investigation but requires a bit more professional effort/ knowledge to finish.
 
-**example:** Adding a new field in a existing API resource
+**example:** Adding a new field in a existing API resource.
 
 ### 3
 
@@ -40,19 +40,19 @@ A task that requires a certain level of knowledge or investigation to solve but 
 
 This task/ problem may involve multiple systems and/or substantial investigation in order to complete it. Will most likely take more then a day and usually require a decent amount of implementational work.
 
-**example:** Doing a deep investigation in the system with multiple stakeholders and important functionality involved (even if fix is easy in the end)
+**example:** Doing a deep investigation in the system with multiple stakeholders and important functionality involved (even if fix is easy in the end).
 
 ### 8
 
 A complex task that involves multiple levels of substantial complexity e.g. different systems, uncertainty, lack of knowledge, code complexity, etc. Will definitely take multiple days and could also usually be split in sub tasks.
 
-**example:** Implementing a new complex logic in multiple systems
+**example:** Implementing a new complex logic in multiple systems.
 
 ### 13
 
 This task has an almost unforeseeable amount of complexity in multiple areas and will take an unknown amount of time. To many factors of uncertainty are involved.
 
-**example:** Investigating a new technology and drafting a concept without knowing if it's even feasible within the system
+**example:** Investigating a new technology and drafting a concept without knowing if it's even feasible within the system.
 
 ### (21)
 
