@@ -2,7 +2,7 @@
 
 ## Use strict_types constant when possible
 
-We should specify the parameters types and even specify the return value (even `void` for nonreturn value).
+We should specify the parameters types and even specify the return value (even `void` for non-return value).
 
 We should write at the top of each PHP file
 
@@ -11,9 +11,11 @@ We should write at the top of each PHP file
 // ...
 ```
 
-By doing this, we will force our PHP code to be more correct and self-documenting. By default, scalar type-declarations are non-strict, which means they will attempt to change the original type to match the type specified by the type-declaration.
+By doing this, we will force our PHP code to be more correct and self-documenting. 
 
-We must write, whenever is possible, the types for every parameter and returning value per function/method. Therefore, we should avoid writing unnecessary PHPDoc which duplicate the information already given by the real code.
+**By default, scalar type-declarations are non-strict**, which means they will attempt to change the original type to match the type specified by the type-declaration.
+
+We must write, whenever is possible, the types for every parameter and returning value per function/method. This will help us to avoid writing unnecessary PHPDoc which duplicate the information already given by the production code.
 
 
 #### Bad example
