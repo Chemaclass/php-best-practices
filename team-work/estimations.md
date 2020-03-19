@@ -34,11 +34,11 @@ Still easily achievable without any kind of investigation but requires a bit mor
 
 A task that requires a certain level of knowledge or investigation to solve but will be pretty straight forward for a person that is knowladgable within the specific system/s.
 
-**example:** Adding a new configuration to a system by reusing und changing existing code.
+**example:** Adding a new configuration to a system by reusing and changing existing code.
 
 ### 5
 
-This task/ problem may involve multiple systems and/or substantial investigation in order to complete it. Will most likely take more then a day and usually require a decent amount of implementational work.
+This task/problem may involve multiple systems and/or substantial investigation in order to complete it. Will most likely take more then a day and usually require a decent amount of implementational work.
 
 **example:** Doing a deep investigation in the system with multiple stakeholders and important functionality involved (even if fix is easy in the end).
 
