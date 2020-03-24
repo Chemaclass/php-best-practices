@@ -61,3 +61,9 @@ Use strict_types constant when possible; specially for your new files.
 * [Testing](/technical-skills/testing.md)
 
 Prove the expected behaviour of your software.
+
+## Extra 
+
+Personal Medium posts: 
+
+* [Modern PHP: know the best PHP features up to PHP 7.4](https://medium.com/chemaclass/modern-php-know-the-best-php-features-til-php-7-4-e3b2bf5916b2)
