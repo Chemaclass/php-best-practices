@@ -1,6 +1,7 @@
 # PHP Best Practices
 
-Apart from consulting https://phptherightway.com/ for good practices, I will compile some of them that I personally consider really helpful while developing in PHP.
+Apart from consulting https://phptherightway.com/ for good practices, 
+I will compile some of them that I personally consider really helpful while developing in PHP.
 
 ## Team work
 
@@ -46,7 +47,7 @@ It should tell you why it exists, what it does, and how it is used:
 
 * [Meaningful Names](/technical-skills/meaningful-names.md)
 
-Attempt always to the minimum scope of your variables, methods, and classes.:
+Attempt always to the minimum scope of your variables, methods, and classes:
 
 * [Minimum Scope](/technical-skills/minimum-scope.md)
 
