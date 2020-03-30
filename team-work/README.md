@@ -2,22 +2,22 @@
 
 ## Team work
 
-* [Agile](agile.md)
+Agile software development values:
 
-Agile software development values.
+* [Agile](/team-work/agile.md)
 
-* [Agreements](agreements.md)
+We need conventions:
 
-We need conventions.
+* [Agreements](/team-work/agreements.md)
 
-* [Documentation](documentation.md)
+Document your knowledge:
 
-Document your knowledge.
+* [Documentation](/team-work/documentation.md)
 
-* [Estimations](estimations.md)
+Discover the unknowns:
 
-Discover the unknowns.
+* [Estimations](/team-work/estimations.md)
 
-* [Knowledge sharing](knowledge-sharing.md)
+Follow the news of your stack:
 
-Follow the news of your stack.
+* [Knowledge sharing](/team-work/knowledge-sharing.md)
