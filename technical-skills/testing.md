@@ -54,3 +54,7 @@ Similar to Test-First, with the important remark that the tests will help you to
 
 * **Testing y TDD para PHP** ([Leanpub](https://leanpub.com/testingytddparaphp/read)) ([Github](https://github.com/franiglesias/testing-php)) [Spanish] by Fran Iglesias
 * **Working Effectively with Legacy Code** ([Amazon](https://www.amazon.es/Working-Effectively-Legacy-Robert-Martin/dp/0131177052)) [English] by Feathers Michael
+
+### Medium Posts
+
+* [The importance of the tests in our software](https://medium.com/@JesusValeraReales/the-importance-of-the-tests-in-our-software-71c6ca020cf6)
