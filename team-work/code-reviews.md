@@ -69,3 +69,11 @@ As a non-author dev:
 * Where should I start reading the code? Where is the entry point in this N files changes?
 * Why the author pick this technical solution if there are another N possible solutions?
 * Might a picture/screenshot help to clarify some ideas?
+
+## References
+
+### Books
+
+* **Extreme Programming Explained: Embrace Change** ([Amazon](https://www.amazon.de/-/en/dp/B00N1ZN6C0/)) [English] by Kent Beck, Cynthia Andres
+* **Clean Agile** ([Amazon](https://www.amazon.de/-/en/dp/B07XTL99JQ/)) [English] by Robert C. Martin
+
