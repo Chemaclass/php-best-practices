@@ -57,4 +57,5 @@ Similar to Test-First, with the important remark that the tests will help you to
 
 ### Medium Posts
 
+* [The Art of Testing: where Design meets Quality](https://medium.com/@chemaclass/the-art-of-testing-39c6af8c9076)
 * [The importance of the tests in our software](https://medium.com/@JesusValeraReales/the-importance-of-the-tests-in-our-software-71c6ca020cf6)
