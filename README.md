@@ -13,6 +13,10 @@ We need conventions:
 
 * [Agreements](/team-work/agreements.md)
 
+Pair Programming & Pull Request:
+
+* [Code Reviews](/team-work/code-reviews.md)
+
 Document your knowledge:
 
 * [Documentation](/team-work/documentation.md)
