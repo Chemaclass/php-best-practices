@@ -71,4 +71,6 @@ Prove the expected behaviour of your software:
 
 Personal Medium posts: 
 
-* [Modern PHP: know the best PHP features up to PHP 7.4](https://medium.com/chemaclass/modern-php-know-the-best-php-features-til-php-7-4-e3b2bf5916b2)
+* [The Art of Testing: where Design meets Quality](https://medium.com/@chemaclass/the-art-of-testing-39c6af8c9076)
+* [Modern PHP: know the best PHP features up to PHP 7.4](https://medium.com/@chemaclass/modern-php-know-the-best-php-features-til-php-7-4-e3b2bf5916b2)
+* [How to improve your tech-talk (or any other presentation)](https://medium.com/@chemaclass/how-to-improve-your-tech-talk-or-any-other-presentation-c2adbd3dc8b)
