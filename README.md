@@ -1,9 +1,13 @@
 # PHP Best Practices
 
-Apart from consulting https://phptherightway.com/ for good practices, 
+Apart from consulting:
+
+* Good practices in PHP: [PHP The Right Way](https://phptherightway.com/)  
+* Clean Code concepts adapted for PHP: [Clean Code PHP](https://github.com/jupeter/clean-code-php) 
+
 I will compile some of them that I personally consider really helpful while developing in PHP.
 
-## Team work
+## Teamwork
 
 Agile software development values:
 
