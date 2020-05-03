@@ -10,7 +10,7 @@ When you see a class prefix with the `final` keyword you will be sure that this 
 
 If there is any reason why we would like to leave a class non-final: remove the `final` keyword, or don't add it.
 
-Any reason meaning: being aware that we want to keep open a class to be extendable.
+Any reason meaning: being aware we want to keep open a class to be extendable.
 
 ## Why is this class not final?
 
@@ -24,9 +24,9 @@ Nonetheless, when [Alan Kay](http://lists.squeakfoundation.org/pipermail/squeak-
 
 ## Benefits
 
-- Clear contracts; using interfaces will force you to think in term of communication between objects.
+- Clear contracts; using interfaces will force you to think in the term of communication between objects.
 - Isolated, side effect free code units; injecting interfaces only as dependencies will remove every nasty side effect around the code you are working on; changing an interface implementation won’t affect other concrete classes since they depend only on the interface abstraction.
-- Testability; mocking dependencies is extremely easy when they are interfaces; no more “I forgot to disable the constructor / mock that concrete method” troubles in your System Under Test.
+- Testability; mocking dependencies is extremely easy when they are interfaces; no more “I forgot to disable the constructor / mock a concrete method” troubles in your System Under Test.
 - Low, manageable complexity; as everything is isolated, you won’t need to worry about rippling changes; this dramatically decreases the complexity of your code.
 - Low cognitive load; with decreased complexity, your brain will be free to focus on what matters.
 - Code fluidity; removing any unnecessary coupling, you will be able to move things around way more easily than before.

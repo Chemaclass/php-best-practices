@@ -25,5 +25,11 @@ Functions should either do something or answer something, but not both.
 
 ## References
 
+### Books
+
+* **Clean Code** ([Amazon](https://www.amazon.de/-/en/dp/0132350882/)) [English] by Robert C. Martin
+
+### Other links
+
 * [Functions | Clean Code, Episode 3](https://cleancoders.com/episode/clean-code-episode-3/show) By Uncle Bob 
 * [Medium post](https://medium.com/coding-skills/clean-code-101-meaningful-names-and-functions-bf450456d90c) about meaningful names and functions

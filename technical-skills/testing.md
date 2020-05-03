@@ -2,28 +2,28 @@
 
 ## Definition
 
-A test is basically the prove of the expected behaviour of your software.
+A test is basically the proof of the expected behaviour of your software.
 
 ## Common types
 
 ### Unit test
 
-- Verify that given an input will expect an output, from a unit persective.
+- Verify that given an input will expect an output, from a unit perspective.
 - A unit is the minimum scope of your code.
 - We could agree on a class behaviour or a function itself.
-- These tests must be independent from each other.
-- They can not talk to the DB.
+- These tests must be independent of each other.
+- They cannot talk to the DB.
 
 ### Integration test
 
-- It verify the behaviour of multiple units together.
+- It verifies the behaviour of multiple units together.
 - They can talk to the DB.
 
 ### Functional / End-to-end / black-box test
 
-- These tests doesn't care about how but if the ending result of a total is the expected behaviour, without caring at all about any detail implementation.
-- They are independent from the DB.
-- The importance of this tests is that they are completely agnostig from the software which is running the production result.
+- These tests don't care about how but if the ending result of a total is the expected behaviour, without caring at all about any detail implementation.
+- They are independent of the DB.
+- The importance of these tests is that they are completely agnostic from the software which is running the production result.
 
 ## Frameworks
 

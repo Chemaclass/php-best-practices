@@ -88,4 +88,10 @@ We must use `find` in Repositories and `get` for Entities or Services.
 
 ## References
 
-* [Names++ | Clean Code, Episode 2](https://cleancoders.com/episode/clean-code-episode-2/show) By Uncle Bob 
+### Books
+
+* **Clean Code** ([Amazon](https://www.amazon.de/-/en/dp/0132350882/)) [English] by Robert C. Martin
+
+### Other links
+
+* [Names++ | Clean Code, Episode 2](https://cleancoders.com/episode/clean-code-episode-2/show) 

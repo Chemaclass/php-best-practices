@@ -11,7 +11,7 @@
 Keep to the minimum the scope of your methods and properties.
 
 
-## Common antipatterns
+## Common anti-patterns
 
 #### Protected by default
 
