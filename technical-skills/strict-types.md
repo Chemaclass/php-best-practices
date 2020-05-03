@@ -13,9 +13,11 @@ We should write at the top of each PHP file
 
 By doing this, we will force our PHP code to be more correct and self-documenting. 
 
-**By default, scalar type-declarations are non-strict**, which means they will attempt to change the original type to match the type specified by the type-declaration.
+**By default, scalar type-declarations are non-strict**, which means they will attempt to change the original 
+type to match the type specified by the type-declaration.
 
-We must write, whenever is possible, the types for every parameter and returning value per function/method. This will help us to avoid writing unnecessary PHPDoc which duplicate the information already given by the production code.
+We must write, whenever is possible, the types for every parameter and returning value per function/method. 
+This will help us to avoid writing unnecessary PHPDoc which duplicate the information already given by the production code.
 
 
 #### Bad example
@@ -42,6 +44,8 @@ public function doSomeAction(string $foo, int $bar): void
 
 ### Disclaimer
 
-Adding `declare(strict_types=1)` for existing files should be avoided unless they are thoroughly tested. It's because we might receive numbers as strings (or viceversa) from external sources (REST APIs).
+Adding `declare(strict_types=1)` for existing files should be avoided unless they are thoroughly tested. 
+It's because we might receive numbers as strings (or vice versa) from external sources (REST APIs).
 
-These are properly working cases as of today and unless you explicitly cast them to their primitive type it can cause future Fatal Errors. 
+These are properly working cases as of today and unless you explicitly cast them to their primitive 
+type it can cause future Fatal Errors. 

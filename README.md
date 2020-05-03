@@ -63,7 +63,7 @@ Use strict comparison as much as possible:
 
 * [Performance Tips](/technical-skills/performance-tips.md)
 
-Use strict_types constant when possible; specially for your new files:
+Use strict_types constant when possible:
 
 * [Strict Types](/technical-skills/strict-types.md)
 
