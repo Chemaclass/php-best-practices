@@ -40,6 +40,13 @@ There is an excellent kata/exercise to train exactly this, it's called
 
 ## References
 
+### Books
+
+* **Extreme Programming Explained: Embrace Change** ([Amazon](https://www.amazon.de/-/en/dp/B00N1ZN6C0/)) [English] by Kent Beck, Cynthia Andres
+* **Clean Agile** ([Amazon](https://www.amazon.de/-/en/dp/B07XTL99JQ/)) [English] by Robert C. Martin
+
+### Other links 
+
 * [Wikipedia](https://en.wikipedia.org/wiki/Agile_software_development)
 * [Kata log](https://kata-log.rocks/)
 * [infoq](https://www.infoq.com/articles/continuous-feedback-teams/)
