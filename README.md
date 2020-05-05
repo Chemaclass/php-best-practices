@@ -4,6 +4,7 @@ Apart from consulting:
 
 * Good practices in PHP: [PHP The Right Way](https://phptherightway.com/)  
 * Clean Code concepts adapted for PHP: [Clean Code PHP](https://github.com/jupeter/clean-code-php) 
+* Awesome PHP libraries, resources and shiny things: [Awesome PHP](https://github.com/ziadoz/awesome-php)
 
 I will compile some of them that I personally consider really helpful while developing in PHP.
 
