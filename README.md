@@ -2,9 +2,10 @@
 
 Apart from consulting:
 
-* Good practices in PHP: [PHP The Right Way](https://phptherightway.com/)  
-* Clean Code concepts adapted for PHP: [Clean Code PHP](https://github.com/jupeter/clean-code-php) 
-* Awesome PHP libraries, resources and shiny things: [Awesome PHP](https://github.com/ziadoz/awesome-php)
+* [PHP The Right Way](https://phptherightway.com/)
+* [Clean Code adapted for PHP](https://github.com/jupeter/clean-code-php)
+* [Awesome PHP libraries and resources](https://github.com/ziadoz/awesome-php)
+* [My personal Medium account](https://medium.com/@chemaclass/)
 
 I will compile some of them that I personally consider really helpful while developing in PHP.
 
@@ -71,11 +72,3 @@ Use strict_types constant when possible:
 Prove the expected behaviour of your software:
 
 * [Testing](/technical-skills/testing.md)
-
-## Extra 
-
-Personal Medium posts: 
-
-* [The Art of Testing: where Design meets Quality](https://medium.com/@chemaclass/the-art-of-testing-39c6af8c9076)
-* [Modern PHP: know the best PHP features up to PHP 7.4](https://medium.com/@chemaclass/modern-php-know-the-best-php-features-til-php-7-4-e3b2bf5916b2)
-* [How to improve your tech-talk (or any other presentation)](https://medium.com/@chemaclass/how-to-improve-your-tech-talk-or-any-other-presentation-c2adbd3dc8b)
