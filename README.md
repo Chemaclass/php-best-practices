@@ -27,4 +27,5 @@ I will compile some of them that I personally consider really helpful while deve
 * [Minimum Scope](/technical-skills/minimum-scope.md) | For your variables, methods, and classes
 * [Performance Tips](/technical-skills/performance-tips.md) | Use strict comparison
 * [Strict Types](/technical-skills/strict-types.md) | Use strict_types constant when possible
+* [Static Analysis](/technical-skills/static-analysis.md) | Identify bugs in your code.
 * [Testing](/technical-skills/testing.md) | Test what your software does. Prove it!
