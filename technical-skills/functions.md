@@ -31,5 +31,6 @@ Functions should either do something or answer something, but not both.
 
 ### Other links
 
-* [Functions | Clean Code, Episode 3](https://cleancoders.com/episode/clean-code-episode-3/show) By Uncle Bob 
+* [Object calisthenics](https://williamdurand.fr/2013/06/03/object-calisthenics/) Rules that help you write better Oriented Object code
 * [Medium post](https://medium.com/coding-skills/clean-code-101-meaningful-names-and-functions-bf450456d90c) about meaningful names and functions
+* [Functions | Clean Code, Episode 3](https://cleancoders.com/episode/clean-code-episode-3/show) By Uncle Bob 
