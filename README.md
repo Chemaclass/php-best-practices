@@ -1,6 +1,9 @@
 # PHP Best Practices
 
+> Discover what's coming in the next [PHP 8](https://wiki.php.net/rfc#php_80) next [November 26, 2020](https://wiki.php.net/todo/php80)!
+
 Apart from consulting:
+
 * [PHP The Right Way](https://phptherightway.com/)
 * [Clean Code adapted for PHP](https://github.com/jupeter/clean-code-php)
 * [Awesome PHP libraries and resources](https://github.com/ziadoz/awesome-php)
