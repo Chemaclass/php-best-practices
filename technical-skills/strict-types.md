@@ -29,16 +29,16 @@ Prior to strict types, int $x meant $x must have a value coercible to an int. An
 - a `null` (example: `null` -> 0)
 - a `string` with leading digits (example: "15 Trees" -> 15)
 
-By setting `strict_types=1`, you tell the engine that int $x means $x must only be an int proper, no type coercion allowed. 
+By setting `strict_types=1`, you tell the engine that `int $x` means `$x must only be an int proper, no type coercion allowed`. 
 You have the great assurance you're getting exactly and only what was given, without any conversion or potential loss.
 
 ### Who should care about this "strict type" line?
 
-Actually, declare(strict_types=1); is more for the reader than for the writer. 
+Actually, `declare(strict_types=1)` is more for the reader than for the writer. 
 Why? Because it will explicitly tell the reader:
 The types in this current scope (file/class) are treated strictly.
 
-#### 'strict_types=1' is more for the reader than for the writer.
+### 'strict_types=1' is more for the reader than for the writer
 
 The writer just needs to maintain such strictness while writing the expected behavior. 
 That said, as a writer, you should care about your readers, which also includes your future self. 
