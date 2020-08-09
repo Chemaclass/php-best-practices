@@ -1,3 +1,5 @@
+[Back to team work](../team-work)
+
 # Knowledge sharing
 
 ### Follow the news of your stack

@@ -1,3 +1,5 @@
+[Back to technical skills](../technical-skills)
+
 # Strict types
 
 ### Declare strict_types constant when possible

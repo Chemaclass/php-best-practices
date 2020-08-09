@@ -1,3 +1,5 @@
+[Back to technical skills](../technical-skills)
+
 # Immutability
 
 We should encourage immutability because it makes the code more predictable and straightforward. So we can be sure that our data are truths.

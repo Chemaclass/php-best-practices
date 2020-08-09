@@ -1,3 +1,5 @@
+[Back to technical skills](../technical-skills)
+
 # Static Analysis
 
 If this is a completely new topic for you, I would recommend you to start with Psalm, for example. 

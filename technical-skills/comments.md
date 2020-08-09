@@ -1,3 +1,5 @@
+[Back to technical skills](../technical-skills)
+
 # Comments
 
 When we think about comments in code, we have in mind comments that explain what code is doing. The problem with comments is that they are not always updated. Very often the code is changed but the old comments remain the same. So, the comments don’t reflect the code anymore.

@@ -1,4 +1,4 @@
-# PHP Best Practices
+[Back to the index](../README.md)
 
 ## Team work
 

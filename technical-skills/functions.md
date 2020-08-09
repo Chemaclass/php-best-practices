@@ -1,3 +1,5 @@
+[Back to technical skills](../technical-skills)
+
 # Functions
 
 > Functions should be small
