@@ -82,7 +82,7 @@ For example: `isValid()` or `hasSomething()`.
 
 ## Pick one word per concept
 
-When starting to have a really big code base, you and your team might start failing to be consistent in the concepts. That might end up having a `fetch`, `retrieve`, and `get` as equivalent methods of different classes.
+When starting to have a huge code base, you and your team might start failing to be consistent in the concepts. That might end up having a `fetch`, `retrieve`, and `get` as equivalent methods of different classes.
 
 We must use `find` in Repositories and `get` for Entities or Services.
 
@@ -94,4 +94,4 @@ We must use `find` in Repositories and `get` for Entities or Services.
 
 ### Other links
 
-* [Names++ | Clean Code, Episode 2](https://cleancoders.com/episode/clean-code-episode-2/show) 
+* [Names++ - Clean Code, Episode 2](https://cleancoders.com/episode/clean-code-episode-2/show) 

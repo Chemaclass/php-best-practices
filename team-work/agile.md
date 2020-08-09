@@ -37,7 +37,7 @@ There is an excellent kata/exercise to train exactly this, it's called
 8. Sustainable development, able to maintain a constant pace
 9. Continuous attention to technical excellence and good design
 10. Simplicity—the art of maximizing the amount of work not done—is essential
-11. Best architectures, requirements, and designs emerge from self-organizing teams
+11. The best architectures, requirements, and designs emerge from self-organizing teams
 12. Regularly, the team reflects on how to become more effective, and adjusts accordingly
 
 ## Extreme Programming Values
@@ -55,7 +55,7 @@ Start with XP's values listed here then add your own by reflecting them in the c
 
 #### Communication
 
-- Everyone is part of the team and we communicate face to face daily. 
+- Everyone is part of the team, and we communicate face to face daily. 
 - We will work together on everything from requirements to code. 
 - We will create the best solution to our problem that we can together.
 
@@ -88,6 +88,6 @@ Start with XP's values listed here then add your own by reflecting them in the c
 
 ### Other links 
 
-* [Agile software development | Wikipedia](https://en.wikipedia.org/wiki/Agile_software_development)
-* [Continuous Feedback Teams | infoq](https://www.infoq.com/articles/continuous-feedback-teams/)
+* [Agile software development- Wikipedia](https://en.wikipedia.org/wiki/Agile_software_development)
+* [Continuous Feedback Teams- infoq](https://www.infoq.com/articles/continuous-feedback-teams/)
 * [Kata log](https://kata-log.rocks/)

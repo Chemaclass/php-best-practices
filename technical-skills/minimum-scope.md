@@ -16,5 +16,6 @@ Keep to the minimum the scope of your methods and properties.
 #### Protected by default
 
 Writing `protected` when there is no inheritance at all. 
+
 > Do not leave `public` or `protected` something unless you know that you will have to expose it to the outside.
 

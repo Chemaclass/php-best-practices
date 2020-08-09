@@ -45,9 +45,9 @@ Nonetheless, when [Alan Kay](http://lists.squeakfoundation.org/pipermail/squeak-
 
 ## References
 
-- [Final classes by default. Why? | Matthias Noback](https://matthiasnoback.nl/2018/09/final-classes-by-default-why/)
-- [Inheritance is evil. Stop using it | Codeburst ](https://codeburst.io/inheritance-is-evil-stop-using-it-6c4f1caf5117)
-- [Why inheritance is bad | Neethack](http://neethack.com/2017/04/Why-inheritance-is-bad/)
-- [When to declare classes final | Ocramius](https://ocramius.github.io/blog/when-to-declare-classes-final/)
-- [Why is using final so bad? | Stackexchange](https://softwareengineering.stackexchange.com/questions/89073/why-is-using-final-on-a-class-really-so-bad)
-- [Is inheritance a bad practice in OOP? | Quora](https://www.quora.com/Is-inheritance-bad-practice-in-OOP-Many-places-that-teach-design-patterns-say-to-opt-for-composition-over-inheritance-but-what-about-when-multiple-classes-share-logic-from-an-abstract-class-such-as-in-the-Template-Method-design-pattern)
+- [Final classes by default. Why?- Matthias Noback](https://matthiasnoback.nl/2018/09/final-classes-by-default-why/)
+- [Inheritance is evil. Stop using it- Codeburst](https://codeburst.io/inheritance-is-evil-stop-using-it-6c4f1caf5117)
+- [Why inheritance is bad- Neethack](http://neethack.com/2017/04/Why-inheritance-is-bad/)
+- [When to declare classes final- Ocramius](https://ocramius.github.io/blog/when-to-declare-classes-final/)
+- [Why is using final so bad?- Stackexchange](https://softwareengineering.stackexchange.com/questions/89073/why-is-using-final-on-a-class-really-so-bad)
+- [Is inheritance a bad practice in OOP?- Quora](https://www.quora.com/Is-inheritance-bad-practice-in-OOP-Many-places-that-teach-design-patterns-say-to-opt-for-composition-over-inheritance-but-what-about-when-multiple-classes-share-logic-from-an-abstract-class-such-as-in-the-Template-Method-design-pattern)
