@@ -21,6 +21,7 @@ Apart from consulting:
 ## Technical skills
 
 * [Comments](/technical-skills/comments.md) <- They are not always updated 
+* [Decoupled business logic](/technical-skills/decoupled-business-logic.md) <- Abstraction, concretions, layers and dependencies 
 * [Final Classes](/technical-skills/final-classes.md) <- Composition over inheritance
 * [Functions](/technical-skills/functions.md) <- They should be small
 * [Immutability](/technical-skills/immutability.md) <- It makes the code more predictable and straightforward
