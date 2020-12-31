@@ -31,3 +31,4 @@ Apart from consulting:
 * [Strict Types](/technical-skills/strict-types.md) <- Use strict_types constant when possible
 * [Static Analysis](/technical-skills/static-analysis.md) <- Identify bugs in your code
 * [Testing](/technical-skills/testing.md) <- Test what your software does
+* [IDE](/technical-skills/ide.md) <- Know your IDE
