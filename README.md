@@ -24,6 +24,7 @@ Apart from consulting:
 * [Decoupled business logic](/technical-skills/decoupled-business-logic.md) <- Abstraction, concretions, layers and dependencies 
 * [Final Classes](/technical-skills/final-classes.md) <- Composition over inheritance
 * [Functions](/technical-skills/functions.md) <- They should be small
+* [IDE](/technical-skills/ide.md) <- Know your IDE
 * [Immutability](/technical-skills/immutability.md) <- It makes the code more predictable and straightforward
 * [Meaningful Names](/technical-skills/meaningful-names.md) <- It should tell you why it exists and what it does
 * [Minimum Scope](/technical-skills/minimum-scope.md) <- For your variables, methods, and classes
@@ -31,4 +32,3 @@ Apart from consulting:
 * [Strict Types](/technical-skills/strict-types.md) <- Use strict_types constant when possible
 * [Static Analysis](/technical-skills/static-analysis.md) <- Identify bugs in your code
 * [Testing](/technical-skills/testing.md) <- Test what your software does
-* [IDE](/technical-skills/ide.md) <- Know your IDE
