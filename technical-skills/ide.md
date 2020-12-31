@@ -10,7 +10,7 @@ It provides the best code completion, refactorings, on-the-fly error prevention,
 
 ### Plugins
 
-<table cellspacing="0" cellpadding="0" style="border: none; border-collapse: collapse;">
+<table>
     <tr>
         <td>
             <a href="https://plugins.jetbrains.com/plugin/7622-php-inspections-ea-extended-" title="Phel Lang">
