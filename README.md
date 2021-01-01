@@ -1,6 +1,6 @@
 # PHP Best Practices
 
-> Discover what's coming in the next [PHP 8](https://wiki.php.net/rfc#php_80) next [November 26, 2020](https://wiki.php.net/todo/php80)!
+> Don't miss out what are the new features from <a href="https://www.php.net/releases/8.0/en.php">PHP 8</a>!
 
 Apart from consulting:
 
@@ -11,24 +11,86 @@ Apart from consulting:
 
 ## Teamwork
 
-* [Agile](/team-work/agile.md) <- Agile software development values
-* [Agreements](/team-work/agreements.md) <- We need conventions
-* [Code Reviews](/team-work/code-reviews.md) <- Pair Programming & Pull Request
-* [Documentation](/team-work/documentation.md) <- Document your knowledge
-* [Estimations](/team-work/estimations.md) <- Discover the unknowns
-* [Knowledge sharing](/team-work/knowledge-sharing.md) <- Follow the news of your stack
+<table class="red">
+<tbody>
+  <tr>
+    <td><a href="/team-work/agile.md">Agile</a></td>
+    <td>Agile software development values</td>
+  </tr>
+  <tr>
+    <td><a href="/team-work/agreements.md">Agreements</a></td>
+    <td>We need conventions</td>
+  </tr>
+  <tr>
+    <td><a href="/team-work/code-reviews.md">Code Reviews</a></td>
+    <td>Pair Programming & Pull Request</td>
+  </tr>
+  <tr>
+    <td><a href="/team-work/documentation.md">Documentation</a></td>
+    <td>Document your knowledge</td>
+  </tr>
+  <tr>
+    <td><a href="/team-work/estimations.md">Estimations</a></td>
+    <td>Discover the unknowns</td>
+  </tr>
+  <tr>
+    <td><a href="/team-work/knowledge-sharing.md">Knowledge sharing</a></td>
+    <td>Follow the news of your stack</td>
+  </tr>
+<tbody>
+</table>
 
 ## Technical skills
 
-* [Comments](/technical-skills/comments.md) <- They are not always updated 
-* [Decoupled business logic](/technical-skills/decoupled-business-logic.md) <- Abstraction, concretions, layers and dependencies 
-* [Final Classes](/technical-skills/final-classes.md) <- Composition over inheritance
-* [Functions](/technical-skills/functions.md) <- They should be small
-* [IDE](/technical-skills/ide.md) <- Know your IDE
-* [Immutability](/technical-skills/immutability.md) <- It makes the code more predictable and straightforward
-* [Meaningful Names](/technical-skills/meaningful-names.md) <- It should tell you why it exists and what it does
-* [Minimum Scope](/technical-skills/minimum-scope.md) <- For your variables, methods, and classes
-* [Performance Tips](/technical-skills/performance-tips.md) <- Use strict comparison
-* [Strict Types](/technical-skills/strict-types.md) <- Use strict_types constant when possible
-* [Static Analysis](/technical-skills/static-analysis.md) <- Identify bugs in your code
-* [Testing](/technical-skills/testing.md) <- Test what your software does
+<table>
+<tbody>
+  <tr>
+    <td><a href="/technical-skills/comments.md">Comments</a></td>
+    <td>They are not always updated</td>
+  </tr>
+  <tr>
+    <td><a href="/technical-skills/decoupled-business-logic.md">Decoupled business logic</a></td>
+    <td>Abstraction, concretions, layers and dependencies</td>
+  </tr>
+  <tr>
+    <td><a href="/technical-skills/final-classes.md">Final Classes</a></td>
+    <td>Composition over inheritance</td>
+  </tr>
+  <tr>
+    <td><a href="/technical-skills/functions.md">Functions</a></td>
+    <td>They should be small</td>
+  </tr>
+  <tr>
+    <td><a href="/technical-skills/ide.md">IDE</a></td>
+    <td>Know your IDE</td>
+  </tr>
+  <tr>
+    <td><a href="/technical-skills/immutability.md">Immutability</a></td>
+    <td>It makes the code more predictable and straightforward</td>
+  </tr>
+  <tr>
+    <td><a href="/technical-skills/meaningful-names.md">Meaningful Names</a></td>
+    <td>It should tell you why it exists and what it does</td>
+  </tr>
+  <tr>
+    <td><a href="/technical-skills/minimum-scope.md">Minimum Scope</a></td>
+    <td>For your variables, methods, and classes</td>
+  </tr>
+  <tr>
+    <td><a href="/technical-skills/performance-tips.md">Performance Tips</a></td>
+    <td>Use strict comparison</td>
+  </tr>
+  <tr>
+    <td><a href="/technical-skills/strict-types.md">Strict Types</a></td>
+    <td>Use strict_types constant when possible</td>
+  </tr>
+  <tr>
+    <td><a href="/technical-skills/static-analysis.md">Static Analysis</a></td>
+    <td>Identify bugs in your code</td>
+  </tr>
+  <tr>
+    <td><a href="/technical-skills/testing.md">Testing</a></td>
+    <td>Test what your software does</td>
+  </tr>
+</tbody>
+</table>
