@@ -9,45 +9,54 @@
 It provides the best code completion, refactorings, on-the-fly error prevention, and more.
 
 ### Plugins
-
+<div style="overflow-x:auto;">
 <table>
+<colgroup>
+   <col span="1" style="width: 85%;">
+   <col span="1" style="width: 15%;">
+</colgroup>
+<tbody>
     <tr>
         <td>
-            <a href="https://plugins.jetbrains.com/plugin/7622-php-inspections-ea-extended-" title="Phel Lang">
-                Php Inspections (EA Extended)
-            </a>
+            <h4>
+                <a href="https://plugins.jetbrains.com/plugin/7622-php-inspections-ea-extended-" title="Php Inspections">
+                    Php Inspections (EA Extended)
+                </a>
+            </h4>
             <ul>
-                <li>architecture related issues</li>
-                <li>weak types control and possible code construct simplifications</li>
-                <li>performance issues</li>
-                <li>non-optimal, duplicate and suspicious "if" conditions</li>
-                <li>validation of magic methods usage</li>
-                <li>regular expressions</li>
-                <li>compatibility issues</li>
-                <li>variety of time-consuming bugs</li>
-                <li>security issues</li>
+                <li>Architecture related issues</li>
+                <li>Weak types control and possible code simplifications</li>
+                <li>Non-optimal, duplicate and suspicious conditions</li>
+                <li>Validation of magic methods usage</li>
+                <li>Performance, compatibility & security issues</li>
+                <li><a href="https://github.com/kalessil/phpinspectionsea"> Github Repository</a></li>
             </ul>
         </td>
         <td>
-            <a href="https://plugins.jetbrains.com/plugin/7622-php-inspections-ea-extended-" title="Phel Lang">
-                <img src="../images/logo-php-inspections.png" width="220" alt="Php Inspections logo"/>
+            <a href="https://plugins.jetbrains.com/plugin/7622-php-inspections-ea-extended-" title="Php Inspections">
+                <img src="../images/logo-php-inspections.png" alt="Php Inspections logo" width="220px"/>
             </a>
         </td>
     </tr>
     <tr>
         <td>
-            <a href="https://plugins.jetbrains.com/plugin/9792-key-promoter-x" title="Phel Lang">
-                Key Promoter X
-            </a>
+            <h4>
+                <a href="https://plugins.jetbrains.com/plugin/9792-key-promoter-x" title="Key Promoter X">
+                    Key Promoter X
+                </a>
+            </h4>
             <ul>
-                <li>It helps you to learn essential shortcuts while you are working.</li>
-                <li>Its tool window shows you a hit-list of the mouse actions you use the most and directly provides you with the shortcut you can use instead.</li>
+                <li>It helps you to learn essential shortcuts while you are working</li>
+                <li>Its shows you the actions you use the most and directly provides you with their shortcut</li>
+                <li><a href="https://github.com/halirutan/IntelliJ-Key-Promoter-X"> Github Repository</a></li>
             </ul>
         </td>
         <td>
-            <a href="https://plugins.jetbrains.com/plugin/9792-key-promoter-x" title="Phel Lang">
-                <img src="../images/logo-key-promoter-X.png" width="220" alt="Key Promoter X logo"/>
+            <a href="https://plugins.jetbrains.com/plugin/9792-key-promoter-x" title="Key Promoter X">
+                <img src="../images/logo-key-promoter-X.png" alt="Key Promoter X logo" width="220px"/>
             </a>
         </td>
     </tr>
+</tbody>
 </table>
+</div>
