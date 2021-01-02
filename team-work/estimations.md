@@ -22,7 +22,7 @@ Even though story points are kind of arbitrary in nature, I will try to give an 
 
 The most basic and least complex kind of task. 
 Is usually achievable in less than a day by one person without consulting others or doing any kind of investigation.
-That change must be strait forward.
+That change must be straight forward.
 
 **example:** Changing a few simple lines of code in few files.
 
