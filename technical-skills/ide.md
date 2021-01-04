@@ -60,3 +60,115 @@ It provides the best code completion, refactorings, on-the-fly error prevention,
 </tbody>
 </table>
 </div>
+
+### Code Templates
+
+They are a built-in templates used each time you create a new PHP class by selecting `New | PHP Class` from the popup menu in one of the project views.
+
+#### Preferences → Editor → File and Code Templates
+
+---
+
+**`Files` tab:**
+
+![Code Templates: Files](../images/ide-code-templates-files.png)
+
+- Add `declare(strict_types=1);` just after the `<?php` tag
+- Also, add the `final` keyword to the classes by default
+
+Example:
+```
+<?php
+#parse("PHP File Header.php")
+
+#if (${NAMESPACE})
+
+namespace ${NAMESPACE};
+
+#end
+
+class ${NAME} {
+
+}
+```
+transformed to:
+```
+<?php
+declare(strict_types=1);
+
+#parse("PHP File Header.php")
+#if (${NAMESPACE})
+namespace ${NAMESPACE};
+#end
+
+final class ${NAME} {
+    
+}
+```
+---
+**`Includes` tab:**
+![Code Templates: Includes](../images/ide-code-templates-includes.png)
+Remove the content from all files except from: `PHP Property Doc Comment`
+
+You can use:
+```
+/**
+ * @var ${TYPE_HINT}
+ */
+```
+**or** the shorter version:
+```
+/** @var ${TYPE_HINT} */
+```
+---
+**`Code` tab:**
+![Code Templates: Code](../images/ide-code-templates-code.png)
+Remove from this tab the default comments for the following sections:
+- PHP Constructor
+- PHP Fluent Setter Method
+- PHP Getter Method
+- PHP Setter Method
+```
+/**
+ * ${CLASS_NAME} constructor.
+${PARAM_DOC}
+${THROWS_DOC}
+*/
+public function __construct(${PARAM_LIST}) {${BODY}}
+```
+simplify to:
+```
+public function __construct(${PARAM_LIST}) {${BODY}}
+```
+
+### Live Templates
+
+![Live Templates](../images/ide-live-templates.png)
+
+Add `: $RETURN$` to the following shortcuts:
+
+```
+public function $NAME$($PARAMETERS$) {
+    $END$
+}
+```
+transform to:
+```
+public function $NAME$($PARAMETERS$): $RETURN$
+{
+    $END$
+}
+```
+
+Then, press on the button `Edit variables` and place `"void"` on RETURN expression like the picture.
+
+This is the list of the items you have to change:
+
+- prif
+- prisf
+- prof
+- prosf
+- pubf
+- pubsf
+
+Optionally, you can do the same with `PHP Interfaces` checkbox.
