@@ -14,7 +14,7 @@ Apart from consulting:
 |                                                      |                                   |
 |------------------------------------------------------|-----------------------------------|
 | [Agile](/team-work/agile.md)                         | Agile software development values |
-| [Agreements](/team-work/agile.md)                    | We need conventions               |
+| [Agreements](/team-work/agreements.md)               | We need conventions               |
 | [Code Reviews](/team-work/code-reviews.md)           | Pair Programming & Pull Request   |
 | [Documentation](/team-work/documentation.md)         | Document your knowledge           |
 | [Estimations](/team-work/estimations.md)             | Discover the unknowns             |

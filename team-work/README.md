@@ -5,7 +5,7 @@
 |                                             |                                   |
 |---------------------------------------------|-----------------------------------|
 | [Agile](./agile.md)                         | Agile software development values |
-| [Agreements](./agile.md)                    | We need conventions               |
+| [Agreements](./agreements.md)               | We need conventions               |
 | [Code Reviews](./code-reviews.md)           | Pair Programming & Pull Request   |
 | [Documentation](./documentation.md)         | Document your knowledge           |
 | [Estimations](./estimations.md)             | Discover the unknowns             |
