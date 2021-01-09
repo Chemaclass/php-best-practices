@@ -2,6 +2,10 @@
 
 # IDE
 
+- [Plugins](#plugins)
+- [Code Templates](#code-templates)
+- [Live Templates](#live-templates)
+
 ## [PhpStorm](https://www.jetbrains.com/phpstorm/)
 
 > The Lightning-Smart PHP IDE
