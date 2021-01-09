@@ -106,7 +106,9 @@ final class ${NAME} {
 }
 ```
 ---
+
 **`Includes` tab:**
+
 ![Code Templates: Includes](../images/ide-code-templates-includes.png)
 Remove the content from all files except from: `PHP Property Doc Comment`
 
@@ -116,27 +118,32 @@ You can use:
  * @var ${TYPE_HINT}
  */
 ```
-**or** the shorter version:
+**Or** the shorter version:
 ```
 /** @var ${TYPE_HINT} */
 ```
 ---
+
 **`Code` tab:**
+
 ![Code Templates: Code](../images/ide-code-templates-code.png)
 Remove from this tab the default comments for the following sections:
 - PHP Constructor
 - PHP Fluent Setter Method
 - PHP Getter Method
 - PHP Setter Method
+
 ```
 /**
  * ${CLASS_NAME} constructor.
-${PARAM_DOC}
-${THROWS_DOC}
-*/
+ * ${PARAM_DOC}
+ * ${THROWS_DOC}
+ */
 public function __construct(${PARAM_LIST}) {${BODY}}
 ```
+
 simplify to:
+
 ```
 public function __construct(${PARAM_LIST}) {${BODY}}
 ```
