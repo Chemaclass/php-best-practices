@@ -2,6 +2,10 @@
 
 # IDE
 
+- [Plugins](#plugins)
+- [Code Templates](#code-templates)
+- [Live Templates](#live-templates)
+
 ## [PhpStorm](https://www.jetbrains.com/phpstorm/)
 
 > The Lightning-Smart PHP IDE
@@ -77,7 +81,7 @@ They are a built-in templates used each time you create a new PHP class by selec
 - Also, add the `final` keyword to the classes by default
 
 Example:
-```
+```php
 <?php
 #parse("PHP File Header.php")
 
@@ -92,7 +96,7 @@ class ${NAME} {
 }
 ```
 transformed to:
-```
+```php
 <?php
 declare(strict_types=1);
 
@@ -113,13 +117,13 @@ final class ${NAME} {
 Remove the content from all files except from: `PHP Property Doc Comment`
 
 You can use:
-```
+```php
 /**
  * @var ${TYPE_HINT}
  */
 ```
 **Or** the shorter version:
-```
+```php
 /** @var ${TYPE_HINT} */
 ```
 ---
@@ -133,7 +137,7 @@ Remove from this tab the default comments for the following sections:
 - PHP Getter Method
 - PHP Setter Method
 
-```
+```php
 /**
  * ${CLASS_NAME} constructor.
  * ${PARAM_DOC}
@@ -144,7 +148,7 @@ public function __construct(${PARAM_LIST}) {${BODY}}
 
 simplify to:
 
-```
+```php
 public function __construct(${PARAM_LIST}) {${BODY}}
 ```
 
@@ -154,13 +158,13 @@ public function __construct(${PARAM_LIST}) {${BODY}}
 
 Add `: $RETURN$` to the following shortcuts:
 
-```
+```php
 public function $NAME$($PARAMETERS$) {
     $END$
 }
 ```
 transform to:
-```
+```php
 public function $NAME$($PARAMETERS$): $RETURN$
 {
     $END$
