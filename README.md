@@ -28,6 +28,7 @@ Apart from consulting:
 | [Decoupled business logic](/technical-skills/decoupled-business-logic.md) | Abstraction, concretions, layers and dependencies |
 | [Final Classes](/technical-skills/final-classes.md)                       | Composition over inheritance                      |
 | [Functions](/technical-skills/functions.md)                               | They should be small                              |
+| [Git Mastering](/technical-skills/git-mastering.md)                       | The best software version control                 |
 | [IDE](/technical-skills/ide.md)                                           | Know your IDE                                     |
 | [Immutability](/technical-skills/immutability.md)                         | It makes the code more predictable                |
 | [Meaningful Names](/technical-skills/meaningful-names.md)                 | It should tell you why it exists and what it does |

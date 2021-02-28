@@ -8,6 +8,7 @@
 | [Decoupled business logic](./decoupled-business-logic.md) | Abstraction, concretions, layers and dependencies |
 | [Final Classes](./final-classes.md)                       | Composition over inheritance                      |
 | [Functions](./functions.md)                               | They should be small                              |
+| [Git Mastering](./git-mastering.md)                       | The best software version control                 |
 | [IDE](./ide.md)                                           | Know your IDE                                     |
 | [Immutability](./immutability.md)                         | It makes the code more predictable                |
 | [Meaningful Names](./meaningful-names.md)                 | It should tell you why it exists and what it does |
