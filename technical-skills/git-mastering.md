@@ -7,7 +7,7 @@
 ## Command Tool
 
 It's true that you can use git with your IDE ([PhpStorm](./ide.md), for example) but you should know 
-the fundamentals behind these "shor-cuts" buttons.
+the fundamentals behind these "short-cuts" buttons.
 
 Double check that you know exactly how the git commands work behind the scene using terminal
 before you get use to these button-helpers.
