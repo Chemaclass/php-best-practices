@@ -25,3 +25,15 @@ git cherry-pick
 ```
 
 You can even create your own aliases or use the ones that [omyzh](https://github.com/ohmyzsh/ohmyzsh/wiki/Cheatsheet#git) provide for you.
+
+## Git Hooks
+
+My favorite git hooks are:
+
+- `pre-commit`: perfect to check the code style and run your unit tests. This one must be fast.
+- `pre-push`: perfect to run your integration / functional / e2e tests.
+
+This way, you will ensure that your "git commit" will have a minimum assert of quality, while
+your "git push" will fully pass the CI.
+
+Anyway, you can easily bypass any "git hook" using the `--no-verify` flag.
