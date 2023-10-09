@@ -1,13 +1,11 @@
 # PHP Best Practices
 
-> Don't miss out what are the new features from <a href="https://www.php.net/releases/8.0/en.php">PHP 8</a>!
-
 Apart from consulting:
 
 * [PHP The Right Way](https://phptherightway.com/)
 * [Clean Code adapted for PHP](https://github.com/jupeter/clean-code-php)
 * [Awesome PHP libraries and resources](https://github.com/ziadoz/awesome-php)
-* [My personal Medium account](https://medium.com/@chemaclass/)
+* [My personal blog](https://chemaclass.com/blog)
 
 ## Teamwork
 
